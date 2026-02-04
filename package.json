@@ -1,0 +1,24 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "template.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ravzacaliskan/full_stack_frontend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Ravzacaliskan/full_stack_frontend/issues"
+  },
+  "homepage": "https://github.com/Ravzacaliskan/full_stack_frontend#readme",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
